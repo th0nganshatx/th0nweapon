@@ -22,7 +22,8 @@ D) Start tor browser ( menginstal tor dan menjalankan di termux & di Linux )
 E) CyberMap ( untuk melihat serangan beda server apakah berhasil? disarankan untuk memakai tor atau VPN saat menyerang! )
 
 ================================
-berikut tampilan tool ddos nya
+<p>
+berikut tampilan tool ddos nya</p>
 <img src="ddos.jpg" alt="termux" style="width: 400px; height: 600px; max-width: 100%;">
 
 cara menggunakan nya di termux
