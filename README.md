@@ -25,5 +25,5 @@ E) CyberMap ( untuk melihat serangan beda server apakah berhasil? disarankan unt
 <p>
 berikut tampilan tool ddos nya</p>
 <img src="ddos.jpg" alt="termux" style="width: 400px; height: 600px; max-width: 100%;">
-
-cara menggunakan nya di termux
+Team Group
+https://chat.whatsapp.com/DDer7bczg9s0KaFB4FzYar
